@@ -1,5 +1,4 @@
 # Daily Funding Fee Received Tracker
-
 Tracking the funding fees received daily by sourcing raw data from exchanges, transforming the data pulled and displaying them in a chart using Tableau. Python is used to automate and streamline this process flow so that no human intervention is required.
 
 ## Step 1:
@@ -19,10 +18,10 @@ The pulled data is then updated to google sheets using Sheets API.
 ## Step 3: 
 
 Visualization is created using Tableau by using the latest data in the google sheets.
-
-<img width="1014" alt="image" src="https://github.com/zhiming97/funding-fee-received-tracker/assets/97498951/b370618b-fce0-4cd7-975a-259664bbf222"><br>
 <br>
---------------------------------------------------->[Click Here To View the Dashboard](https://public.tableau.com/app/profile/zhiming/viz/FundingFeeReceivedTracker/Dashboard1)<---------------------------------------------------
+<img width="999" alt="image" src="https://github.com/zhiming97/funding-fee-received-tracker/assets/97498951/dad10c5d-7147-4e70-8920-587c733b4666">
+<br>
+[Click Here To View the Dashboard](https://public.tableau.com/app/profile/zhiming/viz/FundingFeeReceivedTracker/Dashboard1)
 
 
 
