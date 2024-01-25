@@ -18,7 +18,7 @@ The pulled data is then updated to google sheets using Sheets API.
 
 ## Step 3: 
 
-Visualization is created using Tableau by using the latest pulled data in the google sheets.
+Visualization is created using Tableau by using the latest data in the google sheets.
 
 <img width="1014" alt="image" src="https://github.com/zhiming97/funding-fee-received-tracker/assets/97498951/b370618b-fce0-4cd7-975a-259664bbf222"><br>
 <br>
